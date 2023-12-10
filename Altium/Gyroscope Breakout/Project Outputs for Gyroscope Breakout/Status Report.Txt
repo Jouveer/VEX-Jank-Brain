@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Gyroscope Breakout.PrjPcb]
+   Generated File[GyroscopeBreakout.TXT]
+   Generated File[GyroscopeBreakout.LDP]
+   Generated File[GyroscopeBreakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:33:00 pm On 23/01/2023

@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Teensy Brain Control.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Teensy Brain Control.SchDoc|Designator=U_Pneumatics|SchDesignator=U_Pneumatics|FileName=Pneumatics.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Pneumatics.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Teensy Brain Control.SchDoc|Designator=U_Ports|SchDesignator=U_Ports|FileName=Ports.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Ports.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Teensy Brain Control.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

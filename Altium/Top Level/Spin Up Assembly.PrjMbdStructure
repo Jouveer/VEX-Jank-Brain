@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Colour Breakout\Colour Breakout.PrjPcb
+Record=SubProject|SourceDocument=Assembly.MbsDoc|ProjectPath=..\Colour Breakout\Colour Breakout.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Gyroscope Breakout\Gyroscope Breakout.PrjPcb
+Record=SubProject|SourceDocument=Assembly.MbsDoc|ProjectPath=..\Gyroscope Breakout\Gyroscope Breakout.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\V5 Coprocessor\VEX Spin Up.PrjPcb
+Record=SubProject|SourceDocument=Assembly.MbsDoc|ProjectPath=..\V5 Coprocessor\VEX Spin Up.PrjPcb

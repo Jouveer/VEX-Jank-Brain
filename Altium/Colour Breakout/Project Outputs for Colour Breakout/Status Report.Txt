@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Colour Breakout.PrjPcb]
+   Generated File[ColourBreakout.TXT]
+   Generated File[ColourBreakout.LDP]
+   Generated File[ColourBreakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:30:02 pm On 23/01/2023
